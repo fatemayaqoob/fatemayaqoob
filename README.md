@@ -4,11 +4,15 @@ I'm a Bahraini Full Stack Developer with a degree in Software Engineering from U
 
 <img src="divider.png" width="100%" height="2" alt="">
 
-### Skills
+### Skills & Coursework
 
-<p align="center">
-  <img src="skills.png" alt="Skills chart" width="600">
-</p>
+
+<p align="center" style="grid">
+  <img src="skills.png" alt="Skills chart" width="500">
+</p><!--
+<p align="center" style="grid">
+  <img src="courses.png" alt="Courses chart" width="600">
+</p>-->
 
 <img src="divider.png" width="100%" height="2" alt="">
 
