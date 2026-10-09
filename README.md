@@ -23,27 +23,25 @@ I'm a Bahraini Full Stack Developer with a degree in Software Engineering from U
 #### [mini-framework (OrchidJS)](https://github.com/fatemayaqoob/mini-framework)
 A JavaScript framework I built from scratch, with virtual DOM rendering, diffing, state management, and routing. It's the foundation for my Bomberman game, and the project I'm proudest of.
 
-<sub>`JAVASCRIPT` · `FRAMEWORK DESIGN`</sub>
+<sub>`JAVASCRIPT` · `FRAMEWORK DESIGN` . `HTML` . `CSS`</sub>
 
 #### [Bomberman-DOM](https://github.com/fatemayaqoob/bomberman)
 A multiplayer browser game inspired by the classic Bomberman, built on my own framework, [OrchidJS](https://github.com/fatemayaqoob/mini-framework).
 
-<sub>`JAVASCRIPT` · `GAME DEVELOPMENT`</sub>
+<sub>`JAVASCRIPT` · `GAME DEVELOPMENT` . `SYSTEM DESIGN` . `FRAMEWORK DESIGN` </sub>
 
-<p align="left">
-  <img src="nickname.png" alt="Bomberman-DOM entry screen" width="600">
-</p>
 <p align="center">
+  <img src="nickname.png" alt="Bomberman-DOM entry screen" width="600">
+
   <img src="lobby.png" alt="Bomberman-DOM lobby screen" width="600">
-</p>
-<p align="right">
+
   <img src="game.png" alt="Bomberman-DOM game screen" width="600">
 </p>
 
 #### [Boosted](https://github.com/fatemayaqoob/Boosted)
 A gamified take on the 01 curriculum "Forum" project, it is a web forum where users can connect through posts, likes and comments in spcified categories.
 
-<sub>`GO`</sub>
+<sub>`GO` . `SQL` . `FRONTEND` . `BACKEND` . `HTML` . `CSS` . `DOCKER`</sub>
 
 <img src="divider.png" width="100%" height="2" alt="">
 
