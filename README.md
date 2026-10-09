@@ -1,6 +1,6 @@
 ## I'm Fatema
 
-a Bahraini Full Stack Developer with a degree in Software Engineering from UOB. I enjoy building apps and starting new projects. I'm currently enrolled in Reboot01, and I'm showcasing some of its curriculum projects here alongside a few personal ones.
+a Full Stack Developer with a degree in Software Engineering from UOB. I enjoy building apps and starting new projects. I'm currently enrolled in Reboot01, and I'm showcasing some of its curriculum projects here alongside a few personal ones.
 
 <img src="divider.png" width="100%" height="2" alt="">
 
