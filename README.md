@@ -32,7 +32,7 @@ A 01 curriculum project, Bomberman-dom is a multiplayer browser game based of th
 <sub>`JAVASCRIPT` · `GAME DEVELOPMENT`</sub>
 
 <!-- Add a gameplay screenshot here:-->
-<img src="assets/bomberman.png" alt="Bomberman-DOM gameplay" width="600"> 
+<img src="Bomberman Hat selector.png" alt="Bomberman-DOM gameplay" width="600"> 
 
 #### More work
 [social-network](https://github.com/fatemayaqoob/social-network) · [Boosted](https://github.com/fatemayaqoob/Boosted) · [GraphQL](https://github.com/fatemayaqoob/GraphQl) · [Manama-Blocks](https://github.com/fatemayaqoob/Manama-Blocks) · [Net-cat](https://github.com/fatemayaqoob/Net-cat)
